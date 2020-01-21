@@ -28,6 +28,8 @@
 
 # Delphi compiler-generated binaries (safe to delete)
 *.exe
+*.dproj
+*.res
 *.dll
 *.bpl
 *.bpi
